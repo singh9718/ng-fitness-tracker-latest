@@ -1,0 +1,19 @@
+//@use  '@angular/material' as mat;
+//
+//$my-palette: mat.$indigo-palette;
+@import "../../node_modules/@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+
+* {
+  font-family: Montserrat, sans-serif;
+}
+
+html, body {
+  height: 100%;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+}

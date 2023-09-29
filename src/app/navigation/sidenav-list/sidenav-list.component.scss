@@ -1,0 +1,17 @@
+a {
+  text-decoration: none;
+  color: white;
+
+  &:hover, :active {
+    color: lightgrey;
+  }
+}
+
+mat-nav-list {
+  a, button {
+    mat-icon {
+      vertical-align: middle;
+      font-size: 22px;
+    }
+  }
+}
